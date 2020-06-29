@@ -1,0 +1,17 @@
+bq24630 Standalone Synchronous Switched-Mode Lithium Phosphate Battery Charger
+https://www.ti.com/lit/ds/symlink/bq24630.pdf?ts=1593284873477&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ24630
+https://www.digikey.com/product-detail/en/vishay-siliconix/SIR401DP-T1-GE3/SIR401DP-T1-GE3CT-ND/6595354
+
+current sensing https://www.digikey.com/product-detail/en/panasonic-electronic-components/ERJ-8CWJR010V/P0-01BWCT-ND/4927054
+Capacitors 10uF https://www.digikey.com/product-detail/en/samsung-electro-mechanics/CL31A106MAHNNNE/1276-1181-1-ND/3889267
+
+connector https://www.digikey.com/product-detail/en/jst-sales-america-inc/VHR-4M/455-3990-ND/9924201
+connector https://www.digikey.com/product-detail/en/jst-sales-america-inc/B4P-VH-FB-B-LF-SN/455-3979-ND/7230471
+connector https://www.digikey.com/product-detail/en/jst-sales-america-inc/SVH-41T-P1-1/455-1319-1-ND/608888
+
+
+resistor 82K https://www.digikey.com/product-detail/en/bourns-inc/CAY16-823J4LF/CAY16-823J4LFCT-ND/3767645
+
+thermistor https://www.digikey.com/products/en/sensors-transducers/temperature-sensors-ntc-thermistors/508?k=Thermistor&k=&pkeyword=Thermistor&sv=0&pv861=191377&sf=0&FV=69%7C349291%2C866%7C73403%2C-8%7C508&quantity=8&ColumnSort=1000011&page=1&stock=1&pageSize=25
+
+opto https://www.digikey.com/product-detail/en/broadcom-limited/HCPL-181-00BE/516-1787-1-ND/1966493
