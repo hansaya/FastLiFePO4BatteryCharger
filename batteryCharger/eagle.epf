@@ -297,6 +297,9 @@ UsedLibraryUrn="urn:adsk.eagle:library:162"
 UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/charger/bq24630.lbr"
 UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/Mosfet/powerpack so-8/SI7635DP-T1-GE3.lbr"
 UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/Mosfet/powerpack so-8/SIR414DP-T1-GE3.lbr"
+UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/connectors/B4P-VH_LF__SN_.lbr"
+UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/connectors/B3P-VH_LF__SN_.lbr"
+UsedLibrary="C:/Users/Hans/Nextcloud/hardware/eagle/userLbr/custom/hans.lbr"
 
 [Win_1]
 Type="Control Panel"
