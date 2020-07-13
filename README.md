@@ -15,7 +15,7 @@ More info at https://www.ti.com/lit/ds/symlink/bq24630.pdf?ts=1594663051247&ref_
 
 # Disclaimer
 
-** I’m not responsible for life or property damage. Do your own research and use my design at your own risk.**
+**I’m not responsible for any life or property damage. Do your own research and use my design at your own risk.**
 
 # Use case
 
