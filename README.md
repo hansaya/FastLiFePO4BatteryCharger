@@ -24,7 +24,7 @@ I currently own an dash cam that can record time lapses while car is parked. Thi
 My requirements:
 1) Fast charge the battery within 20min or so. ie within in my daily commute.
 2) Battery pack needs to handle the high heat and subzero conditions safely.
-3) Runs system like as UPS. No interruptions to the output.
+3) Runs system like a UPS. No interruptions to the output.
 4) High charge cycles so that system would last for a long time.
 
 # Design consideration.
@@ -47,11 +47,16 @@ You can use the zip file within cam/ folder to get the board made by a PCB house
 * R13 and R14 can be used to set the output voltage. Use 1.8(1+R13/R14) to set the voltage. My schematic sets this at 10.8V (LifePo4 3S).
 * C11 can be used to set the safety timer. Checkout the datasheet for more information.
 * P-CH mosfet I picked are only designed for 20v so do not exceed 20v input voltage.
+* LED outputs are not required but handy to have.
 
 # Other considerations
 
 *	Install an external battery protection system between the battery and the charger. 
 *	Even though charger can do 10A, inductor seems to get bit toasty at that level of current. I found 6A to be a happy medium. 
+
+# TODO
+
+* Looks like I overlooked the charge enable pin configuration. With the current design, enable pin only enables the charging and output get connected to the input as soon as a valid input is present. I need to use the EN pin to trigger the bypass switch as well.
 
 
 
