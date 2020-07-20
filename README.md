@@ -1,4 +1,4 @@
-Fast battery charger designed to work with LifePo4 batteries.
+Fast battery charger designed to work with LifePo4 batteries using bq24630.
 
 Features
 * Selectable battery configuration. Up to 7S.
@@ -19,7 +19,7 @@ More info at https://www.ti.com/lit/ds/symlink/bq24630.pdf?ts=1594663051247&ref_
 
 # My use case
 
-I currently own an dash cam that can record time lapses while car is parked. This is a great feature and find it to be useful. However this requires the camera to be connected to constant power source. Plugging a camera into car battery permanently will get you a empty battery eventually and will put you on a pickle. Specially if you don’t start the car every day. My solution to this problem is to have an secondary battery pack that powers the camera. 
+I currently own an dash cam that can record time lapses while car is parked. This is a great feature and find it to be useful. However this requires the camera to be connected to constant power source. Plugging a camera into car battery permanently will get you a empty battery eventually. Specially if you don’t start the car every day. My solution to this problem is to have an secondary battery pack that powers the camera. 
 
 My requirements:
 1) Fast charge the battery within 20min or so. ie within in my daily commute.
@@ -51,6 +51,9 @@ You can use the zip file within cam/ folder to get the board made by a PCB house
 * EN solder jumper can be used to permanently turn on the input.
 * TB1 cab be used to reroute the charge enable pin to the external connector. Use a sharp knife to cut the trace between default charge enable tab.
 * Q7 is optional if the charger needs to be enabled by default. Use a jumper to bridge the mosfet pads.
+
+![Top Board look](pic/top_board.JPG)
+![Bottom board look](pic/bottom_board.JPG)
 
 # Other considerations
 
