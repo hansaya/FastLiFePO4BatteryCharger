@@ -52,8 +52,8 @@ You can use the zip file within cam/ folder to get the board made by a PCB house
 * TB1 cab be used to reroute the charge enable pin to the external connector. Use a sharp knife to cut the trace between default charge enable tab.
 * Q7 is optional if the charger needs to be enabled by default. Use a jumper to bridge the mosfet pads.
 
-![Top Board look](pic/top_board.JPG)
-![Bottom board look](pic/bottom_board.JPG)
+![Top Board look](pics/top_board.JPG)
+![Bottom board look](pics/bottom_board.JPG)
 
 # Other considerations
 
