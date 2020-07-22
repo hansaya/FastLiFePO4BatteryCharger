@@ -234,6 +234,7 @@
 <wire x1="3.556" y1="46.609" x2="3.556" y2="53.975" width="1.905" layer="30"/>
 <wire x1="3.556" y1="53.975" x2="6.731" y2="53.975" width="1.905" layer="30"/>
 <wire x1="13.335" y1="51.435" x2="13.335" y2="47.625" width="1.905" layer="30"/>
+<text x="36.322" y="58.039" size="1.016" layer="27">+</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
@@ -3399,12 +3400,10 @@ Please make sure your boards conform to these design rules.
 <attribute name="MOUSER_PRICE-STOCK" value="" x="34.544" y="63.5" size="1.778" layer="27" rot="R180" display="off"/>
 </element>
 <element name="LSP1" library="solpad" library_urn="urn:adsk.eagle:library:364" package="LSP10" package3d_urn="urn:adsk.eagle:package:26501/1" value="LSP10" x="36.703" y="60.325" smashed="yes">
-<attribute name="NAME" x="35.433" y="61.595" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="52" x="36.703" y="60.325" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="33.274" y="57.658" size="0.0254" layer="27"/>
 </element>
 <element name="LSP2" library="solpad" library_urn="urn:adsk.eagle:library:364" package="LSP10" package3d_urn="urn:adsk.eagle:package:26501/1" value="LSP10" x="32.385" y="60.198" smashed="yes">
-<attribute name="NAME" x="31.115" y="61.468" size="1.27" layer="25" ratio="10"/>
 <attribute name="POPULARITY" value="52" x="32.385" y="60.198" size="1.778" layer="27" display="off"/>
 <attribute name="VALUE" x="32.385" y="60.452" size="0.0254" layer="27"/>
 </element>
